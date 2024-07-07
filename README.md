@@ -98,3 +98,7 @@
 <!-- GitHub activity graph by Ashutosh00710 - https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
 [![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minhazurakash&bg_color=1F222E&color=f7d747&line=fd428d&point=FFFFFF&hide_border=true)](https://github.com/minhazurakash)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=galib6&show_icons=true&locale=en&layout=compact" alt="galib6" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=galib6&show_icons=true&locale=en" alt="galib6" /></p>
