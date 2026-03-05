@@ -5,7 +5,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/minhazurakash">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FD428D&center=true&lines=A+passionate+Web+developer;Always+learning+new+things;2%2B++years+of+experience" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=FD428D&center=true&lines=A+passionate+Web+developer;Always+learning+new+things;3%2B++years+of+experience" />
   </a>
 </p>
 
