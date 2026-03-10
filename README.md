@@ -23,7 +23,7 @@
 <!-- Socials Links -->
 <h3 align="center">Connect With Me</h3>
 <p align="center">
-  <a href="https://minhazurakash.com">
+  <a href="https://minhazurakash.store">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="website logo" />
   </a>
   <a href="https://linkedin.com/in/minhazurakash">
@@ -49,7 +49,7 @@
 
 ✌️ &emsp;I enjoy programming and sharing knowledge <br/><br/>
 ❤️ &emsp;I love writing code and learning new things<br/><br/>
-📧 &emsp;How to reach me: minhazurakash@gmail.com<br/><br/>
+📧 &emsp;How to reach me: minhazurakash1@gmail.com<br/><br/>
 💬 &emsp;Ask me about anything [here](https://github.com/minhazurakash/minhazurakash/issues)
 
 <!-- 💻 &emsp;Most used line of code `console.log("hello world")` <br/><br/> -->
