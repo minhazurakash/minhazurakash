@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="/assets/hello.gif" alt="Hello gif" width="30"/>, I'm Minhazur Rahman Akash</h1>
+<h1 align="center">Hi, I'm Minhazur Rahman Akash</h1>
 
 <!-- <h3 align="center">A passionate Web developer from Bangladesh <img src="/assets/bangladesh.png" alt="Bangladesh national flag" width="24"/></h3> -->
 
